@@ -1,0 +1,12 @@
+Class 
+object
+constructor and destructor
+operator overloading and data conversion
+inheritance 
+dynamic polymorphism 
+template
+exception handling
+
+
+study by comparing with c++
+
